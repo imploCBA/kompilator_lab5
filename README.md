@@ -1,0 +1,1 @@
+# kompilator_lab5
